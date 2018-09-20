@@ -8,7 +8,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist/portfolio"
   },
   "private": true,
   "homepage": "https://robinlobo.github.io/portfolio",
